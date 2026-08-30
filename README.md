@@ -22,6 +22,3 @@ Exibir uma pequena relação de equipamentos de TI e calcular informações do e
 - `index.php`
 - `style.css`
 - `README.md`
-
-### Repositório
-Após criar o repositório no GitHub, substitua esta linha pelo link público do projeto.
